@@ -1,2 +1,2 @@
-# lojban-quran
+# lojbanq
 just trying it
