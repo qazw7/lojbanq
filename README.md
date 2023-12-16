@@ -1,2 +1,3 @@
 # lojbanq
-just trying it
+just testing stuff
+
